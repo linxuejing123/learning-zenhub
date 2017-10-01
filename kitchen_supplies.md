@@ -3,6 +3,7 @@
 ## Machines
 - Food Processor
 - Blender
+- Stove
 
 ## Misc
 - Pizza
